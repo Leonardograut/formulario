@@ -1,0 +1,50 @@
+* {
+    border: 1px solid #6c9b00;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.header {
+    text-align: 
+}
+
+.header-img {
+    border-radius: 40%;
+    border: 3px solid rgb(20, 19, 19);
+    margin: 20px;
+    
+    
+}
+
+.uli {
+    color: rgb(19, 19, 204);
+
+}
+
+.content {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+}    
+
+.footer{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    color: #6c9b00;
+    border: 1px solid #6c9b00 ;
+    background-color: black;
+    padding: 10px;
+}
+
+
+.formulario-top {
+    border: 1px solid #6c9b00;
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+}
+
